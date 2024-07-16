@@ -1,4 +1,4 @@
-### Website Planning for Africa Institute for Sustainability and Business (AISB)
+## Website Planning for Africa Institute for Sustainability and Business (AISB)
 
 **1. Introduction**
    - **Purpose**: To create a comprehensive plan for the AISB website to effectively communicate its mission, services, and expertise.
