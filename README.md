@@ -103,3 +103,5 @@
    - **Development**: Begin website development based on the approved plan.
    - **Testing**: Conduct thorough testing to ensure functionality and responsiveness.
    - **Launch**: Officially launch the website and promote it through various channels.
+  
+Used under the CCA 3.0 license.
