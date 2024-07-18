@@ -28,6 +28,26 @@
 					font-size: 16px;
 					text-align: center;
 			}
+
+			.container {
+				display: flex;
+			}
+			.block {
+				flex: 1;
+				margin: 0 0 10px 0;
+				outline:none;
+			}
+			#logo {
+				text-align: center;
+			}
+			@media screen and (max-width: 900px) {
+				.container {
+					display: block;
+				}
+				.block {
+					margin: 0;
+				}
+			}
 		</style>
 
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
@@ -77,15 +97,23 @@
 										<li>Consulting services for sustainable business growth and development</li>
 										<li>Event management and conference organization</li>
 									</ul>
-									<header>
-										<h4>Our Goals:</h4>
-									</header>
-									<ul>
-											<li>Advance sustainable development goals in Africa</li>
-											<li>Foster a culture of sustainability in business and government</li>
-											<li>Support entrepreneurship and innovation in Africa</li>
-											<li>Build partnerships for collective impact</li>
-									</ul>
+										<div class="container">
+											<div class="block">
+												<div class="block" id="logo"><img src="images/logo4.jpg" alt="logo4" width="325"></div>
+											</div>
+											<div class="block">
+												<header>
+													<h4>Our Goals:</h4>
+												</header>
+													<ul>
+														<li>Advance sustainable development goals in Africa</li>
+														<li>Foster a culture of sustainability in business and government</li>
+														<li>Support entrepreneurship and innovation in Africa</li>
+														<li>Build partnerships for collective impact</li>
+													</ul>
+											</div>
+										</div>
+									
 									<header>
 										<h4>Values:</h4>
 									</header>
