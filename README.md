@@ -98,10 +98,14 @@
      - Harare Office: 8th floor Pegasus House, Samora Machel Ave., Harare
 
 **10. Next Steps**
-   - **Domain Registration**: Register a .org domain for AISB.
+   - **Domain Registration**: Register a .org/.com domain for AISB.
    - **Design Mockups**: Create design mockups and gather feedback.
    - **Development**: Begin website development based on the approved plan.
    - **Testing**: Conduct thorough testing to ensure functionality and responsiveness.
    - **Launch**: Officially launch the website and promote it through various channels.
   
+  **11. Email**
+   - **Domain**: Register a .org/.com domain for AISB.
+   - **Create All social media from scratch**
+
 Used under the CCA 3.0 license.
