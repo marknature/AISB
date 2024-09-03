@@ -7,7 +7,7 @@
 **1. Introduction**
    - **Purpose**: To create a comprehensive plan for the AISB website to effectively communicate its mission, services, and expertise.
    - **Goals**: Enhance online presence, attract stakeholders, and provide a platform for information dissemination and engagement.
-   - Working with Benjamin
+   - Working with Benjamin Manyiyo "CBD"
 
 **2. Website Objectives**
    - Communicate AISB's mission, vision, and values.
